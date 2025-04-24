@@ -1,6 +1,8 @@
 # Pour démarrer le projet
 # 1. Installer les dépendances
+```
 pip install -r requirements.txt
+```
 ## Ou manuellement
     pip install behave
     pip install selenium
