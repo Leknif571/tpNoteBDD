@@ -21,7 +21,7 @@ behave path/to/feature
 ```
 ### Exemple
 ```
-behave features/mon_feature.feature
+behave features/change_secruity_level_after_connect.feature
 ```
 
 # 3. Pour créer un nouveau scénario, il faut créer un fichier .feature dans le dossier features et y ajouter le scénario en Gherkin.
